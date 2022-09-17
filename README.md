@@ -1,5 +1,4 @@
-
-Rails7 +　 MySQL 環境
+Rails6 +　 MySQL 環境
 
 ### 環境構築
 
