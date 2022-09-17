@@ -62,7 +62,7 @@ docker-compose run web rails db:create
 docker-compose run web rails db:migrate:reset
 ```
 
-#### webpackerインストール
+#### webpackerインストール（バージョンによっては不要かも）
 ```
 docker-compose run web rails webpacker:install
 ```
